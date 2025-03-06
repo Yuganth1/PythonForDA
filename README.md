@@ -12,3 +12,9 @@
 - Classified data into broader categories to define risk
 - Assessed risk using a function based on certain financial parameters
 - Used seaborn and matplotlib to generate various plots like scatterplot, histogram and bar chart to visualize data and draw insights.
+### Project 3: Sentiment Analysis
+- Used libraries like wordcloud,sumy and textblob to analyze sentiments regarding ChatGPT
+- Obtained sentiment polarity from text using TextBlob
+- Created a list of stopwords to be avoided for analysis as they play no role in sentiment.
+- Obtained comment words and created a word cloud to represent the frequency of words in comments.
+- Finally created a bar chart to visualize the number of positive,negatie and neutral comments with regard to ChatGPT.
